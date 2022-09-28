@@ -1,2 +1,2 @@
-# cowboy779-github.io
+# cowboy779.github.io
 portfolio for cowboy779
